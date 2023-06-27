@@ -1,5 +1,5 @@
 ## 👋 Hi there, I’m Serge
-- 💞️ Interested in front-end dev and many other things
+- 💞️ Interes  in front-end dev and many other things
 - 🌱 Currently learning html, css, js and everything related to front-end dev
 - 👀 Looking for some job now as junior front-end developer
 - 📫 How to reach me... E-mail: serge9104@gmail.com 
